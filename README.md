@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jessica</h1>
-<h3 align="center">A passionate fullstack developer from Chicago</h3>
+<h3 align="center">A Fullstack Developer From Chicago</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
