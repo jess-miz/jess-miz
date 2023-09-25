@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=06a77d&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, Sass, Node.js, Nunjucks </strong> - Performer Website including blog and content managaement system so they can update when needed!</p>
+        <p><strong>Javascript, Sass, Node.js, Nunjucks </strong> - Performer Website including blog and content management system so they can update when needed!</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Coffee Chat Rolodex</h3>
